@@ -10,7 +10,7 @@ Basic installation for React Web Project
 - eslint-plugin-react
 - eslint-plugin-html
 ```
-npm install -g eslint-plugin-react webpack-dev-server eslint
+npm install -g eslint-plugin-react webpack-dev-server eslint eslint-plugin-html
 ```
 
 # Setup Enviroment
